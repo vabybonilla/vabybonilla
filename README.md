@@ -1,4 +1,4 @@
-### This is where I will be implementing my CMSC320 final project. There's nothing here yet since I have yet to start!
+###
 
 <!--
 **vabybonilla/vabybonilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
